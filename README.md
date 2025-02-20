@@ -1,6 +1,5 @@
 # public_api_test
 
-# TheSportsDB API Test Cases
 
 ## Setup & Installation
 ### Prerequisites
@@ -13,7 +12,7 @@ To execute the test, run:
 pytest test_api.py
 ```
 
-
+# TheSportsDB API Test Cases
 ## Test Case 1: Valid Team (Positive Scenario)
 
 | Step | Action | Expected Result | Validation |
