@@ -2,6 +2,18 @@
 
 # TheSportsDB API Test Cases
 
+## Setup & Installation
+### Prerequisites
+Ensure you have the following installed:
+- Python (>=3.7)
+
+## Running the Tests
+To execute the test, run:
+```bash
+pytest test_api.py
+```
+
+
 ## Test Case 1: Valid Team (Positive Scenario)
 
 | Step | Action | Expected Result | Validation |
